@@ -1,0 +1,19 @@
+{
+    "Catatan": [
+        {
+            "id": 1,
+            "judul": "Catatan Pertama",
+            "deskripsi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo est adipisci laudantium amet, architecto iusto aliquam vitae fuga ab maiores."
+        },
+        {
+            "id": 2,
+            "judul": "Catatan Kedua",
+            "deskripsi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo est adipisci laudantium amet, architecto iusto aliquam vitae fuga ab maiores."
+        },
+        {
+            "id": 3,
+            "judul": "Catatan Ketiga",
+            "deskripsi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo est adipisci laudantium amet, architecto iusto aliquam vitae fuga ab maiores."
+        }
+    ]
+}
